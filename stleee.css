@@ -1,0 +1,403 @@
+body, h1 , h2, h3, ul, p {
+    margin: 0;
+    padding: 0;
+}
+
+.text {
+    padding: 10px 30px;
+    max-width: 100%;
+}
+#header {
+    background-color: #35424a;
+    border-bottom: 5px solid coral;
+}
+#header h1 {
+    color: #fff;
+    font-family: sans-serif;
+    padding: 15px 0;
+    display: inline-block;
+}
+
+#header .logo {
+    color: coral;
+}
+
+.navbar {
+    float: right;
+}
+
+.navbar li a {
+    text-decoration: none;
+    color: #fff;
+    font-family: sans-serif;
+    padding: 25px 15px;
+    display: inline-block;
+}
+
+.navbar li a:hover {
+    color: coral;
+}
+.navbar li {
+    display: inline;
+}
+.container {
+    width: 70%;
+    margin: auto;
+}
+
+#banner {
+    height: 60vh;
+    background-image: url(../my\ VIDEO/photo_2022-07-07_13-35-39.jpg);
+    background-size: cover;
+    background-position: center -200px;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-family: sans-serif;
+}
+
+
+#banner h1{
+    font-size: 56px;
+    margin-bottom: 25px;
+    padding-top: 150px;
+}
+
+#newsleter {
+    background-color: #35424a;
+    color: #fff;
+    font-family: sans-serif;
+    padding: 20px 0;
+    display: inline-block;
+    width: 100%;
+    
+}
+
+#newsletter .left {
+    float: left;
+}
+
+#newsletter .right {
+    float: right;
+}
+
+#newsletter input {
+    padding: 5px;
+}
+
+.button {
+    padding: 7px 15px;
+    border: none;
+    background-color: coral;
+    color: #fff;
+    margin-left: 15px;
+}
+
+#courses {
+    padding: 30px 0;
+}
+
+.box {
+    width: 33.3%;
+    float: left;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+.box img {
+    max-width: 80%;
+    width: 220px;
+}
+
+.clr {
+    clear: both;
+}
+
+#footer {
+    padding: 50px 0;
+    text-align: center;
+    background-color: coral;
+    color: #fff;
+    font-family: sans-serif;
+    margin-top: 40px;
+}
+
+h3 {
+    color: rgb(0, 38, 255);
+}
+
+.p1 {
+    color: rgb(0, 38, 255);
+ }
+
+ .boks img {
+    max-width: 100%;
+    width: 299px;
+ }
+
+ .boks p {
+    color: rgb(255, 0, 0);
+    background-color: rgb(255, 251, 0);
+    font-family: sans-serif;
+ }
+
+ .active {
+    color: coral !important; 
+ }
+
+.man {
+    color: rgb(16, 1, 108);
+    background-color: rgb(4, 0, 132);
+    font-family: sans-serif;
+ }
+
+ .haha {
+    max-width: 100%;
+    width: 10px;
+ }
+
+ .braslet {
+    color: rgb(255, 255, 255);
+    background-color: coral;
+    font-family: sans-serifS;
+ }
+
+ .brawl {
+    color: red;
+    background-color: rgb(255, 255, 255);
+    font-family: sans-serif;
+ }
+ .stars {
+    color: rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0);
+    font-family: sans-serif;
+    padding: 50px 0;
+ }
+
+
+ .star {
+    color: cyan;
+    background-color: tomato;
+    padding: 25px;
+    font-family: sans-serif;
+ }
+ .starr {
+    color: darkblue;
+    background-color: thistle;
+    padding: 20px;
+    font-family: sans-serif;
+ }
+
+ .starrr {
+    color:beige;
+    background-color: teal;
+    padding: 15px;
+    font-family: sans-serif;
+}
+
+.starrrr {
+    color: rgb(255, 255, 255);
+    background-color: rgb(255, 145, 0);
+    font-family: sans-serif;
+}
+
+.starrrrr {
+    color: rgb(255, 0, 0);
+    background-color:springgreen;
+    padding: 20px;
+    font-family: sans-serif;
+}
+
+.starrrrrr {
+    color: indigo;
+    background-color:lawngreen;
+    padding: 25px;
+    font-family: sans-serif;
+}
+
+.starrrrrrr {
+    color: gold;
+    background-color: navy;
+    padding: 15px;
+    font-family: sans-serif;
+}
+
+.texts {
+    color: #fff;
+    background-color: #35424a;
+    border-bottom: 5px solid coral;
+    padding: 30px;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+.game1 {
+    color: cyan;
+    background-color: tomato;
+    padding: 15px;
+    font-family: sans-serif;
+ }
+ .game2 {
+    color: darkblue;
+    background-color: thistle;
+    padding: 15px;
+    font-family: sans-serif;
+ }
+
+ .game3 {
+    color:beige;
+    background-color: teal;
+    padding: 15px;
+    font-family: sans-serif;
+}
+
+.game4 {
+    color: rgb(255, 255, 255);
+    background-color: rgb(255, 145, 0);
+    padding: 15px;
+    font-family: sans-serif;
+}
+
+.game5 {
+    color: rgb(255, 0, 0);
+    background-color:springgreen;
+    padding: 15px;
+    font-family: sans-serif;
+}
+
+.game6 {
+    color: indigo;
+    background-color:lawngreen;
+    padding: 15px;
+    font-family: sans-serif;
+}
+
+.game7 {
+    color: gold;
+    background-color: navy;
+    padding: 15px;
+    font-family: sans-serif;
+}
+
+.game8 {
+    color: rgb(19, 45, 116);
+    background-color: firebrick;
+    padding: 15px;
+    font-family: sans-serif;
+}
+
+.colt {
+    color: rgb(255, 0, 0);
+    background-color:springgreen;
+    padding: 15px;
+    font-family: sans-serif;
+}
+
+.oqilon {
+    padding: 20px;
+    background-color: firebrick;
+    color: rgb(91, 45, 116);
+    font-family: sans-serif;
+}
+
+.mini1 {
+    color: gold;
+    background-color: navy;
+    padding: 15px;
+    font-family: sans-serif;
+}
+
+.clash1 {
+    color: indigo;
+    background-color:lawngreen;
+    padding: 15px;
+    font-family: sans-serif;
+}
+
+.beach1 {
+    color: darkblue;
+    background-color: thistle;
+    padding: 15px;
+    font-family: sans-serif;
+}
+
+.pvz1 {
+    color:beige;
+    background-color: teal;
+    padding: 15px;
+    font-family: sans-serif;
+}
+
+.mobile1 {
+    color: rgb(255, 255, 255);
+    background-color: tan;
+    padding: 15px;
+    font-family: sans-serif;
+}
+
+.musiqa {
+    color: darkblue;
+    background-color: rgb(72, 255, 0);
+    padding: 35px;
+    font-family: sans-serif;
+}
+
+.musiqa1 {
+    color: darkblue;
+    background-color: thistle;
+    padding: 20px;
+    font-family: sans-serif;
+}
+
+.ari {
+    color: rgb(6, 3, 52);
+    background-color:rgb(0, 0, 255);
+    font-family: sans-seri;
+    padding: 30px;
+}
+
+
+.finfo-title {
+    color: #ffff;
+    background-color: rgb(3, 3, 56);
+    font-family: sans-serif;
+}
+
+.finfo-text {
+    color: rgb(0, 21, 255);
+    background-color: rgb(0, 0, 0);
+    font-family: sans-serif;
+}
+
+.kino1 {
+    color: #fff;
+    background-color: black;
+    padding: 30px 50px;
+    text-align: center;
+}
+
+.kino2 {
+    color: red;
+    background-color: yellow;
+    padding: 30px 50px;
+    text-align: right;
+}
+.orqafon {
+    background-color: rgb(3, 3, 56);
+}
+.ibrat {
+    padding: 35px 10px;
+}
+
+.kino3 {
+    color: rgb(0, 0, 0);
+    background-color: red; 
+    padding: 30px 50px;
+    font-family: sans-serif;
+}
+
+.kino4 {
+    color: rgb(255, 0, 0);
+    background-color: coral;
+    padding: 30px 50px;
+    font-family: sans-serif;
+}
